@@ -104,4 +104,5 @@ The dataset includes:
 - 📈 Peak release years were around **2008–2010**, aligning with console booms
 - 📊 Combining EDA with statistical testing offers **powerful insights** for developers, marketers, and analysts
 
-> This project showcases how structured EDA and classic statistics can unlock trends and guide strategic decisions in the gaming industry.
+
+
