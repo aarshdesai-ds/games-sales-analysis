@@ -81,7 +81,7 @@ The dataset includes:
 ## 🚀 How to Run
 
 1. Clone the repository  
-`git clone https://github.com/<your-username>/video-game-sales-analysis.git`
+`git clone https://github.com/aarshdesai-ds/games-sales-analysis.git`
 
 2. Launch the notebook
  `jupyter notebook video-game-sales-analysis.ipynb`
